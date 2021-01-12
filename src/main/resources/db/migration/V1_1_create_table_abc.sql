@@ -1,0 +1,1 @@
+CREATE TABLE abc(row1 CHAR(50), row2 CHAR(50));
